@@ -1411,9 +1411,9 @@ body {
   background-color: rgb(17 24 39 / var(--tw-bg-opacity, 1));
 } */
 
-.dark\:bg-gray-900:is(.dark *) {
+.dark\:bg-color-5:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgb(238 231 216 255);
+  background-color: rgba(0 100 200 var(--tw-bg-opacity, 1));
 }
 
 .dark\:text-gray-300:is(.dark *) {
