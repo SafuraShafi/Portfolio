@@ -1413,7 +1413,7 @@ body {
 
 .dark\:bg-color-5:is(.dark *) {
   --tw-bg-opacity: 1;
-  background-color: rgba(0 100 200 var(--tw-bg-opacity, 1));
+  background-color: rgba(156 206 255 1);
 }
 
 .dark\:text-gray-300:is(.dark *) {
