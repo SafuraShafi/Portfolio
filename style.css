@@ -958,9 +958,14 @@ video {
   background-color: rgb(156 163 175 / var(--tw-bg-opacity, 1));
 }
 
-.bg-gray-900 {
+/* .bg-gray-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity, 1));
+} */
+
+.bg-gray-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(238 231 216 / var(--tw-bg-opacity, 1));
 }
 
 .bg-slate-100 {
